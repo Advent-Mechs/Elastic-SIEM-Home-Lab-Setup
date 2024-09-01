@@ -22,4 +22,4 @@ This lab was a valuable learning experience and I'm excited to continue explorin
 
 ## Resources
 
-* Original article: (https://medium.com/@aali23/a-simple-elastic-siem-lab-6765159ee2b2)
+* Original article: https://medium.com/@aali23/a-simple-elastic-siem-lab-6765159ee2b2
