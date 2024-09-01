@@ -13,7 +13,7 @@ I recently completed a lab where I set up a home environment for Elastic Securit
 
 ## Challenges and Solutions
 
-* **[Challenge 1]** I encountered an issue with initially getting Kali Linux setup properly. I resolved this by going a to a different site to grab the ISO file.
+* **[Challenge 1]** I encountered an issue with initially getting Kali Linux setup properly. I resolved this by going a to a different site to grab the ISO file. https://www.kali.org/get-kali/#kali-installer-images
 * **[Challenge 2]** I had difficulty with getting correct nmap detections the first time through. I overcame this by doing a module on NMAP on the Tryhackme platform and re-reading the instructions to see what I may have overlooked.
 
 ## Conclusion
